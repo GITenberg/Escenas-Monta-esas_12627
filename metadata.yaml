@@ -1,0 +1,31 @@
+_repo: Escenas-Monta-esas_12627
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pereda, José María de
+    aliases:
+    - Porrúa, José María de Pereda y Sánchez
+    - Porrua, Jose Maria de Pereda y Sanchez
+    - Pereda, Jose Maria de
+    - De Pereda, José María
+    - Sánchez Porrúa, José María de Pereda y
+    birthdate: 1833
+    deathdate: 1906
+    gutenberg_agent_id: '4463'
+    url: http://www.gutenberg.org/2009/agents/4463
+    wikipedia: http://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_de_Pereda
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12627'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish literature'
+- !lcc 'PQ'
+- GITenberg
+title: Escenas Montañesas
+url: http://www.gutenberg.org/ebooks/12627
